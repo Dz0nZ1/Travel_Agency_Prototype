@@ -129,7 +129,7 @@
                     <div class="text-container">
                         <br><br><br><br>
                         <h1>FIND  <span id="js-rotating"> YOUR NEXT JOURNEY,  YOURSELF ON A JOURNEY,  HAPPINESS</span></h1>
-                        <p class="p-heading p-large">“Travel is the main thing you purchase that makes you more extravagant”. We, at ‘Nećaci’, swear by this and put stock in satisfying travel dreams that make you perpetually rich constantly.</p>
+                        <p class="p-heading p-large">“Travel is the main thing you purchase that makes you more extravagant”. We, at ‘NL-TRAVEL’, swear by this and put stock in satisfying travel dreams that make you perpetually rich constantly.</p>
                         <a class="btn-solid-lg page-scroll" href="/countries">DISCOVER</a>
                     </div>
                 </div> <!-- end of col -->
