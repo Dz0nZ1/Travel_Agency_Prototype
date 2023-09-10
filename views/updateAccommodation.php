@@ -20,7 +20,7 @@ use app\models\AccommodationModel;
                         <option class="form-control" value="<?php echo $array[$i]?>"><?php echo $array[$i]?></option>
                     <?php endfor;?>
                 </select><br>
-                <button type="submit" class="btn btn-info form-control">SELECT A CITY</button>
+                <button type="submit" class="btn btn-info form-control">SELECT A ACCOMMODATION</button>
                 <a href="/administration" class="btn form-control btn-info">BACK</a>
             </form>
         </div>
