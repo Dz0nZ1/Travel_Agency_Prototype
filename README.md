@@ -9,7 +9,7 @@ The Travel Agency Prototype is an application designed as a comprehensive inform
 
 To set up and run the application, follow these steps:
 
-1. Install Xampp and MySQL.
+1. Install Xampp or install MySQL and Apache separately
 
 2. Configure your Apache settings to point the root of the htdocs to Travel_Agency_Prototype/public.
 
